@@ -1,0 +1,5 @@
+# CMPUT 201 Lab Assignments
+
+This repository contains lab assignments from my CMPUT 201 course at the University of Alberta. The labs cover fundamental C programming concepts and progress through increasingly complex topics. The early assignments focus on basic calculations and control flow, like an orbital calculator that determines satellite characteristics and a date converter that handles leap year calculations. I also built a retail management system that tracks product sales and generates profit reports with sorted output tables.
+
+The later labs get into more advanced topics like graphics generation, game logic, and data structures. One of the more interesting ones was a fractal generator that creates Mandelbrot and Julia sets as PPM images using complex number arithmetic. I also implemented classic algorithms like Minesweeper board generation and Conway's Game of Life simulation, both of which required working with 2D arrays and pointer arithmetic. The final lab involved building a graph data structure from scratch using linked lists, with operations for adding and removing nodes and edges, plus calculating path weights between nodes.
